@@ -10,3 +10,8 @@ https://www.guru99.com/web-services-interview-questions.html
 ### J2EE interview Questions
 
 https://www.javatpoint.com/j2ee-interview-questions
+
+
+### swagger annotations
+
+https://www.javainuse.com/spring/boot_swagger_annotations

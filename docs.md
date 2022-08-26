@@ -19,3 +19,5 @@ https://www.javainuse.com/spring/boot_swagger_annotations
 
 ## spring 
 https://www.edureka.co/blog/interview-questions/spring-interview-questions/
+
+https://www.javatpoint.com/spring-boot-interview-questions

@@ -39,3 +39,5 @@ https://www.bestinterviewquestion.com/angular-2-interview-questions
 https://www.javascripttutorial.net/es6/javascript-inheritance/
 
 https://www.bacancytechnology.com/blog/angular-resolver
+
+https://angular.io/guide/lazy-loading-ngmodules

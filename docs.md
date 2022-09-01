@@ -37,3 +37,5 @@ https://www.w3schools.com/js/js_function_closures.asp
 https://www.bestinterviewquestion.com/angular-2-interview-questions
 
 https://www.javascripttutorial.net/es6/javascript-inheritance/
+
+https://www.bacancytechnology.com/blog/angular-resolver

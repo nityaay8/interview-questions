@@ -22,6 +22,8 @@ https://www.edureka.co/blog/interview-questions/spring-interview-questions/
 
 https://www.javatpoint.com/spring-boot-interview-questions
 
+https://www.edureka.co/blog/interview-questions/spring-boot-interview-questions/
+
 ## threads
 https://www.callicoder.com/java-8-completablefuture-tutorial/#:~:text=What's%20a%20CompletableFuture%3F,its%20progress%2C%20completion%20or%20failure.
 

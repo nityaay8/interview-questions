@@ -24,6 +24,10 @@ https://www.javatpoint.com/spring-boot-interview-questions
 
 https://www.interviewbit.com/spring-boot-interview-questions/
 
+https://stackoverflow.com/questions/35005158/what-is-the-difference-between-componentscan-and-enableautoconfiguration-in-sp
+
+
+
 
 ## threads
 https://www.callicoder.com/java-8-completablefuture-tutorial/#:~:text=What's%20a%20CompletableFuture%3F,its%20progress%2C%20completion%20or%20failure.

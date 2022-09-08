@@ -62,3 +62,6 @@ https://www.bacancytechnology.com/blog/angular-resolver
 https://angular.io/guide/lazy-loading-ngmodules
 
 https://sodocumentation.net/angular2/topic/7751/lazy-loading-a-module
+
+## hibernate
+https://www.interviewbit.com/hibernate-interview-questions/

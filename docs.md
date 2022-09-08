@@ -67,3 +67,5 @@ https://sodocumentation.net/angular2/topic/7751/lazy-loading-a-module
 
 ## hibernate
 https://www.interviewbit.com/hibernate-interview-questions/
+
+https://medium.com/geekculture/resolve-hibernate-n-1-problem-f0e049e689ab

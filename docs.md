@@ -20,6 +20,8 @@ https://www.guru99.com/web-services-interview-questions.html
 
 https://www.javatpoint.com/j2ee-interview-questions
 
+https://www.baeldung.com/hibernate-inheritance
+
 
 ### swagger annotations
 

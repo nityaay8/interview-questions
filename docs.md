@@ -2,6 +2,11 @@
 
 https://www.interviewbit.com/java-8-interview-questions/
 
+https://www.guru99.com/java-virtual-machine-jvm.html
+
+## java performance
+https://www.techgeeknext.com/java/java-performance-interview-questions
+
 ## Rest interview questions
 https://www.guru99.com/rest-api-interview-question-answers.html
 

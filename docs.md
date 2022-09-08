@@ -22,6 +22,8 @@ https://www.javatpoint.com/j2ee-interview-questions
 
 https://www.baeldung.com/hibernate-inheritance
 
+## JMS
+https://www.guru99.com/java-message-service-interview-questions.html
 
 ### swagger annotations
 

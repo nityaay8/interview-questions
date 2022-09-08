@@ -29,9 +29,12 @@ https://www.javainuse.com/spring/boot_swagger_annotations
 ## spring 
 https://www.edureka.co/blog/interview-questions/spring-interview-questions/
 
+## spring boot
 https://www.javatpoint.com/spring-boot-interview-questions
 
 https://www.interviewbit.com/spring-boot-interview-questions/
+
+https://springframework.guru/actuator-in-spring-boot/#:~:text=Spring%20Boot%20Actuator%20is%20a,metrics%20from%20production-ready%20applications.
 
 https://stackoverflow.com/questions/35005158/what-is-the-difference-between-componentscan-and-enableautoconfiguration-in-sp
 

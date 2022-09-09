@@ -40,6 +40,8 @@ https://orkes.io/content/blog/why-is-microservice-orchestration-important-now
 
 https://camunda.com/blog/2021/03/external-task-client-spring-bootified/
 
+https://www.tutorialspoint.com/spring_boot/spring_boot_hystrix.htm
+
 ## spring boot
 https://www.javatpoint.com/spring-boot-interview-questions
 

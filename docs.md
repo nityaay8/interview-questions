@@ -38,6 +38,8 @@ https://www.interviewbit.com/microservices-interview-questions/
 
 https://orkes.io/content/blog/why-is-microservice-orchestration-important-now
 
+https://camunda.com/blog/2021/03/external-task-client-spring-bootified/
+
 ## spring boot
 https://www.javatpoint.com/spring-boot-interview-questions
 

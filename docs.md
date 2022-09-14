@@ -22,6 +22,11 @@ https://www.javatpoint.com/j2ee-interview-questions
 
 https://www.baeldung.com/hibernate-inheritance
 
+### JDBC
+https://www.interviewbit.com/jdbc-interview-questions/
+
+https://jennyttt.medium.com/dirty-read-non-repeatable-read-and-phantom-read-bd75dd69d03a
+
 ## JMS
 https://www.guru99.com/java-message-service-interview-questions.html
 

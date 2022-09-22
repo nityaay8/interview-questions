@@ -12,6 +12,8 @@ https://medium.com/trueengineering/a-review-of-microservice-orchestration-framew
 
 https://docs.camunda.org/get-started/spring-boot/
 
+https://orkes.io/content/blog/why-is-microservice-orchestration-important-now
+
 ## spring boot
 https://www.javatpoint.com/spring-boot-interview-questions
 

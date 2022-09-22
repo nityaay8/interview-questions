@@ -10,6 +10,9 @@ https://www.techgeeknext.com/java/java-performance-interview-questions
 ## Rest interview questions
 https://www.guru99.com/rest-api-interview-question-answers.html
 
+## code analysis
+https://www.techgeeknext.com/interview/sonarqube
+
 ## webservice interview questions 
 https://java2blog.com/web-services-interview-questions/
 

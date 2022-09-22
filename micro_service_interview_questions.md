@@ -7,6 +7,11 @@ https://camunda.com/blog/2021/03/external-task-client-spring-bootified/
 
 https://www.tutorialspoint.com/spring_boot/spring_boot_hystrix.htm
 
+## microservices orchestration
+https://medium.com/trueengineering/a-review-of-microservice-orchestration-frameworks-d22797b34ea5
+
+https://docs.camunda.org/get-started/spring-boot/
+
 ## spring boot
 https://www.javatpoint.com/spring-boot-interview-questions
 

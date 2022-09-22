@@ -7,6 +7,8 @@ https://camunda.com/blog/2021/03/external-task-client-spring-bootified/
 
 https://www.tutorialspoint.com/spring_boot/spring_boot_hystrix.htm
 
+https://dzone.com/articles/implementing-a-bounded-context
+
 ## microservices orchestration
 https://medium.com/trueengineering/a-review-of-microservice-orchestration-frameworks-d22797b34ea5
 

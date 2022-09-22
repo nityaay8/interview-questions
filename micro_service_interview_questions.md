@@ -23,3 +23,9 @@ https://www.guru99.com/rest-api-interview-question-answers.html
 https://www.mytectra.com/interview-question/top-2022-apigee-interview-questions-and-answers
 
 https://www.acte.in/apigee-interview-questions-and-answers/
+
+    publish, mainitainig and securing the API at any scale
+
+    it supports HTTP,HTTPs and web scokets
+    
+    API gateway is server less , pay for use (API calls and connection duration)

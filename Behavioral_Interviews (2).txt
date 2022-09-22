@@ -1,0 +1,118 @@
+In behavioral interviews, you'll be asked a series of questions that attempt to reveal data 
+about your character, productivity, teamwork, leadership skills, and a variety of other 
+topics relevant to success in the role. The last thing you want is to be thinking through
+answers for the first time in an interview, so this exercise is about finding your voice
+and clarifying nuances around a spectrum of possible questions. The goal is not to write
+a script and regurgitate, but rather to have recalled and made sense of details ahead
+of time so they are fresh and ready for dynamic delivery.
+
+==========================================================================
+1. Conflict Resolution
+==========================================================================
+These questions are about how well you are able to resolve interpersonal conflicts. 
+As an IC, the focus is on how well you can resolve conflicts between yourself and other team members or managers.
+As a manager or TPM, there is additional emphasis on how well you can assist in resolving conflicts between third parties. 
+--------------------------------------------------------------------------------
+Tell me about a conflict you had with your own manager. How did you approach this ?
+
+Tell me about a time you overcame a conflict with a team member.
+
+Tell me about a time when you had a conflict with your team or the direction your team was headed.
+
+Tell me about a time where you had to resolve a conflict between two or more of your team members.
+
+Tell me about a time you had to manage conflicting priorities from different teams.
+
+==========================================================================
+2. Execution & Planning
+==========================================================================
+These questions seek to evaluate your skills when it comes to 
+executing your work in a timely manner and within budget.
+As an IC, the focus is more on your own work. As a manager or TPM, 
+the focus is more on how well you do this at the team level.
+--------------------------------------------------------------------------------
+How do you deal with scope creep?
+
+Tell me about a time you fell behind or missed a deadline on a project. How did you respond?
+
+Tell me about a time your team was falling behind a deadline. How did you respond?
+
+Tell me about a time you had to deliver on a tight deadline.
+
+How do you approach a reorganization/reprioritization of the roadmap?
+
+==========================================================================
+3.Personal Growth
+==========================================================================
+These questions evaluate the degree to which you are oriented toward growth personally and professionally.
+How well you take feedback, habits for learning new skills, and knee-jerk reactions to particular situations 
+all reveal data about how much you value going out of your comfort zone and being the best version of yourself.
+--------------------------------------------------------------------------------
+
+How have you worked on your weaknesses and developed your strengths?
+
+Tell me about a time when you received feedback that was difficult to hear.
+
+Tell me about a time that you took feedback as a manager. How did you implement it?
+
+How do you stay educated on best-practices/industry trends?
+==========================================================================
+4.Cross-Functional Skills
+==========================================================================
+These questions evaluate the degree to which you can effectively work cross-functionally 
+to produce business value. In other words, it's how well you can work with team members 
+outside of your domain to reach a collective goal.
+--------------------------------------------------------------------------------
+How do you negotiate scope/requirements across teams?
+
+How do you keep yourself familiar with the project's system design and roadmaps?
+
+How do you gather requirements from multiple stakeholders and translate them into tangible tasks?
+
+How do you keep cross-functional stakeholders accountable to their key deliverables and timelines?
+
+Tell me about a time you had to manage conflicting priorities from different teams.
+==========================================================================
+5.Motivations & Values
+==========================================================================
+These questions seek to reveal what motivates you as well as the values you personally hold
+ that drive your motivations. These get at the why behind your interests, and may touch
+ upon a variety of different kinds of interests from companies to hobbies.
+--------------------------------------------------------------------------------
+Why our company?
+Why are you looking for a new job?
+==========================================================================
+6.Ice Breakers
+==========================================================================
+The point of these questions is to break the ice between you and your interviewer,
+ and typically involve a segue into deeper conversations like an introduction
+ to who you are at a high-level.
+--------------------------------------------------------------------------------
+Tell me about yourself. 
+==========================================================================
+7.Leadership Profile
+==========================================================================
+These questions are about who you are as a leader/manager.
+ They seek to reveal and evaluate your approach to leading 
+ your team at a high-level, setting and keeping the vision, 
+ defining team culture and collective values, and the tactics
+ you use to manage your team.
+ --------------------------------------------------------------------------------
+ Tell me about the biggest project you've overseen/led.
+ Tell me about a time where you mentored someone.
+ Tell me about the biggest team you've built or overseen.
+ Tell me about something you've spearheaded/led the charge on at work.
+ How do you identify top performers and manage them differently?
+========================================================================== 
+8.Project Experience
+==========================================================================
+ These questions are about the specifics of projects you have experience with.
+ Questions like these seek to reveal several things such as the kinds of projects
+ you're most experienced with, the technical depth you've reached in various areas, 
+ what you consider technically challenging, as well as what you find interesting (and disinteresting).
+ --------------------------------------------------------------------------------
+ Tell me about a project that didn't go according to plan (shifted priorities/deadlines/budget).
+ Tell me about your side projects
+ Tell me about a project that had people-related challenges.
+ Tell me about a difficult technical challenge you encountered. How did you navigate it?
+ Tell me about a project that had resource or logistical challenges.

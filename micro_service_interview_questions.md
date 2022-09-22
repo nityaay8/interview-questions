@@ -9,6 +9,8 @@ https://www.tutorialspoint.com/spring_boot/spring_boot_hystrix.htm
 
 https://dzone.com/articles/implementing-a-bounded-context
 
+https://cloud.spring.io/spring-cloud-netflix/multi/multi__circuit_breaker_hystrix_clients.html
+
 ## microservices orchestration
 https://medium.com/trueengineering/a-review-of-microservice-orchestration-frameworks-d22797b34ea5
 

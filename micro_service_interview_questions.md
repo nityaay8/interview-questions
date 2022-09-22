@@ -18,3 +18,8 @@ https://stackoverflow.com/questions/35005158/what-is-the-difference-between-comp
 
 ## Rest interview questions
 https://www.guru99.com/rest-api-interview-question-answers.html
+
+## API Gateway
+https://www.mytectra.com/interview-question/top-2022-apigee-interview-questions-and-answers
+
+https://www.acte.in/apigee-interview-questions-and-answers/

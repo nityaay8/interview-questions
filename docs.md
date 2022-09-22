@@ -7,7 +7,8 @@ https://www.guru99.com/java-virtual-machine-jvm.html
 ## java performance
 https://www.techgeeknext.com/java/java-performance-interview-questions
 
-
+## HLD
+https://drive.google.com/file/d/1aj_1_OhUNgvPmwr2Yo6Ta5AnY1qpyjBM/view?usp=sharing
 
 ## code analysis
 https://www.techgeeknext.com/interview/sonarqube

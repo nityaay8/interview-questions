@@ -9,6 +9,11 @@ https://www.tutorialspoint.com/spring_boot/spring_boot_hystrix.htm
 
 https://dzone.com/articles/implementing-a-bounded-context
 
+## hystrix
+    How does hystrix Circuit Breaker work?
+    The circuit breaker calculates when to open and close the circuit and what to do in case of a failure. Hystrix watches for failures on 
+    those annotated  methods, and opens the circuit so that subsequent calls will automatically fail.i.e. when circuit is open, Hystrix redirects calls to the fallback method.
+
 https://cloud.spring.io/spring-cloud-netflix/multi/multi__circuit_breaker_hystrix_clients.html
 
 https://github.com/Netflix/Hystrix/wiki/Configuration#execution.isolation.strategy

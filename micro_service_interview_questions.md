@@ -35,6 +35,8 @@ https://springframework.guru/actuator-in-spring-boot/#:~:text=Spring%20Boot%20Ac
 
 https://stackoverflow.com/questions/35005158/what-is-the-difference-between-componentscan-and-enableautoconfiguration-in-sp
 
+https://www.tutorialspoint.com/spring_boot/spring_boot_exception_handling.htm
+
 ## Rest interview questions
 https://www.guru99.com/rest-api-interview-question-answers.html
 

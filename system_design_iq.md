@@ -1,3 +1,6 @@
+## unique id (system design)
+https://medium.com/@sandeep4.verma/system-design-distributed-global-unique-id-generation-d6a440cc8e5
+
 ## bloom filter
 https://www.enjoyalgorithms.com/blog/bloom-filter
 

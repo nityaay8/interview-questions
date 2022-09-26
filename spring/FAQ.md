@@ -16,6 +16,11 @@
     XmlBeanFactory factory = new XmlBeanFactory(res);
    
    https://docs.spring.io/spring-framework/docs/1.2.x/reference/beans.html
+   
+## difference between BeanFactory and Application Context.
+
+|Bean Factory|Application Context|
+----------------------------------
 
 ## how do you create object using factroy patteren in sping
 

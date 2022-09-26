@@ -66,7 +66,8 @@
   * https://www.baeldung.com/spring-beans-factory-methods
   
   * using annotation
-  * ![image](https://user-images.githubusercontent.com/20619643/192301321-578cf9ae-1d5f-4ca8-b879-218701886626.png)
+  * https://stackoverflow.com/questions/33993063/annotation-based-servicelocatorfactorybean
+  *
 
 
 

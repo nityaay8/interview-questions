@@ -17,7 +17,7 @@
    
    https://docs.spring.io/spring-framework/docs/1.2.x/reference/beans.html
    
-### difference between BeanFactory and Application Context.
+### Difference between BeanFactory and Application Context.
 
 |Bean Factory|Application Context|
 |------------|-------------------|
@@ -28,7 +28,7 @@
 |it does not support autowiring though to annotaions|it supports annotation based on configuration|
 
 
-### what is circular dependency
+### What is circular dependency
     A circular dependency occurs when a bean A depends on another bean B, and the bean B depends on bean A as well:
 
     Bean A → Bean B → Bean A
@@ -58,13 +58,13 @@
             }
         }
 
-### how do you create object using factroy patteren in sping
+### How do you create object using factroy patteren in sping
 
 
-### sping bean life cycle
+### Spring bean life cycle
 
   ![image](https://user-images.githubusercontent.com/20619643/192209460-31018af7-81ab-4085-91e9-247501487912.png)
 
 
-### what is AOP.
+### What is AOP.
 

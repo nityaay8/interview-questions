@@ -77,4 +77,20 @@
 
 
 ### What is AOP.
+    *Spring AOP is used to implementing the cross cutting concerns
+    *Example Cross cutting concerns are Security,Logging and Transaction Management.
+    
+    *AOP Concepts
+        * Join point
+        * Advice
+        * Pointcut
+        * Introduction
+        * Target Object
+        * Aspect
+        * Interceptor
+        * AOP Proxy
+        * Weaving
+    
+    
+    
 

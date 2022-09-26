@@ -3,9 +3,15 @@
 
 ## how do you create object using factroy patteren in sping
 
+    <beans>   
+      <bean id="department" class="com.howtodoinjava.spring.beans.Department"></bean>   
+    </beans>  
+
+   ApplicationContext ctx = new ClassPathXmlApplicationContext( "beans.xml");
+
 ## sping bean life cycle
 
-![image](https://user-images.githubusercontent.com/20619643/192209460-31018af7-81ab-4085-91e9-247501487912.png)
+  ![image](https://user-images.githubusercontent.com/20619643/192209460-31018af7-81ab-4085-91e9-247501487912.png)
 
 
 ## what is AOP.

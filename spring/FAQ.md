@@ -28,7 +28,7 @@
 |it does not support autowiring though to annotaions|it supports annotation based on configuration|
 
 
-### what is the use o Lazy annotation
+### what is circular dependency
     A circular dependency occurs when a bean A depends on another bean B, and the bean B depends on bean A as well:
 
     Bean A → Bean B → Bean A

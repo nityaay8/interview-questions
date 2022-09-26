@@ -67,7 +67,7 @@
   
   * using annotation
   * https://stackoverflow.com/questions/33993063/annotation-based-servicelocatorfactorybean
-  *
+  * https://github.com/nityaay8/interview-questions/blob/1b45574208e1ddc92619c32ec3848a6c3b68ff42/spring/spring_boot_factory_patteren.png
 
 
 

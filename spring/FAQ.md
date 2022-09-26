@@ -32,6 +32,11 @@
     A circular dependency occurs when a bean A depends on another bean B, and the bean B depends on bean A as well:
 
     Bean A → Bean B → Bean A
+    
+    If we try to run this test, we will get this exception:
+    
+        BeanCurrentlyInCreationException: Error creating bean with name 'circularDependencyA':
+        Requested bean is currently in creation: Is there an unresolvable circular reference?
 
 
 ### how do you create object using factroy patteren in sping

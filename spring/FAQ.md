@@ -1,13 +1,13 @@
 ## How do you initialize Application context or Bean Factory context in Spring
 
-
-## how do you create object using factroy patteren in sping
-
     <beans>   
       <bean id="department" class="com.Department"></bean>   
     </beans>  
 
    ApplicationContext ctx = new ClassPathXmlApplicationContext( "beans.xml");
+
+## how do you create object using factroy patteren in sping
+
 
 ## sping bean life cycle
 

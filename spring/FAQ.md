@@ -5,6 +5,15 @@
     </beans>  
 
    ApplicationContext ctx = new ClassPathXmlApplicationContext( "beans.xml");
+   
+    Resource res = new FileSystemResource("beans.xml");
+    XmlBeanFactory factory = new XmlBeanFactory(res);
+    or
+
+    ClassPathResource res = new ClassPathResource("beans.xml");
+    XmlBeanFactory factory = new XmlBeanFactory(res);
+   
+   https://docs.spring.io/spring-framework/docs/1.2.x/reference/beans.html
 
 ## how do you create object using factroy patteren in sping
 

@@ -38,10 +38,6 @@ https://www.guru99.com/java-message-service-interview-questions.html
 https://www.javainuse.com/spring/boot_swagger_annotations
 
 
-## spring 
-https://www.edureka.co/blog/interview-questions/spring-interview-questions/
-
-
 ## threads
 https://www.callicoder.com/java-8-completablefuture-tutorial/#:~:text=What's%20a%20CompletableFuture%3F,its%20progress%2C%20completion%20or%20failure.
 

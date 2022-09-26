@@ -38,10 +38,10 @@
         BeanCurrentlyInCreationException: Error creating bean with name 'circularDependencyA':
         Requested bean is currently in creation: Is there an unresolvable circular reference?
         
-   The Workarounds
-     Redesign the components
+   * The Workarounds
+     * Redesign the components
         When we have a circular dependency, it’s likely we have a design problem and that the responsibilities are not well separated
-     Use @Lazy
+     * Use @Lazy
      A simple way to break the cycle is by telling Spring to initialize one of the beans lazily. So, instead of fully initializing the bean, 
      it will create a proxy to inject it into the other bean. The injected bean will only be fully created when it’s first needed.
      
@@ -59,8 +59,8 @@
         }
 
 ### How do you create object using factroy patteren in sping
-    Spring treats a bean container as a factory that produces beans.
-    Each of the getBean methods is considered a factory method
+    * Spring treats a bean container as a factory that produces beans.
+    * Each of the getBean methods is considered a factory method
 
 
 ### Spring bean life cycle

@@ -21,6 +21,8 @@
 
 |Bean Factory|Application Context|
 |------------|-------------------|
+|it supports lazy initialization, bean object will be created when get bean mehod inoked.|it supports eager initialization, bean objets will be |
+
 
 ## how do you create object using factroy patteren in sping
 

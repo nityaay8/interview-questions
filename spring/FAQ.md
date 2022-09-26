@@ -61,6 +61,13 @@
 ### How do you create object using factroy patteren in sping
     * Spring treats a bean container as a factory that produces beans.
     * Each of the getBean methods is considered a factory method
+    
+  * Factory method hides the complex creation logic of object (with in a single method call)
+  * https://www.baeldung.com/spring-beans-factory-methods
+  
+  * using annotation
+  * ![image](https://user-images.githubusercontent.com/20619643/192301321-578cf9ae-1d5f-4ca8-b879-218701886626.png)
+
 
 
 ### Spring bean life cycle

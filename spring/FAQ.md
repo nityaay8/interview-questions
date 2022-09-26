@@ -72,8 +72,9 @@
 
 
 ### Spring bean life cycle
+  
+  ![image](https://user-images.githubusercontent.com/20619643/192310815-2c3bc09c-8737-45b8-93db-930cc622980d.png)
 
-  ![image](https://user-images.githubusercontent.com/20619643/192310428-1f87dded-fcb0-4acc-88c0-72c1624cf2ca.png)
 
 
 ### What is AOP.

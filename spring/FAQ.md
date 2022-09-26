@@ -4,7 +4,7 @@
 ## how do you create object using factroy patteren in sping
 
     <beans>   
-      <bean id="department" class="com.howtodoinjava.spring.beans.Department"></bean>   
+      <bean id="department" class="com.Department"></bean>   
     </beans>  
 
    ApplicationContext ctx = new ClassPathXmlApplicationContext( "beans.xml");

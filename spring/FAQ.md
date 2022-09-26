@@ -6,6 +6,8 @@
 
    ApplicationContext ctx = new ClassPathXmlApplicationContext( "beans.xml");
    
+   BeanFactory
+   
     Resource res = new FileSystemResource("beans.xml");
     XmlBeanFactory factory = new XmlBeanFactory(res);
     or

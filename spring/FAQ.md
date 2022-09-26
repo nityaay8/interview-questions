@@ -22,7 +22,10 @@
 |Bean Factory|Application Context|
 |------------|-------------------|
 |it supports lazy initialization, bean object will be created when get bean mehod inoked.|it supports eager initialization, bean objets will be created at the time of initilization |
-|it is suitalble for stand alone appliaions.|it is suialble to all appliaions (sandalong , web and enepise appli
+|it is suitalble for stand alone appliaions.|it is suialble to all appliaions (sandalong , web and enepise application|
+|it supports singleton and protoype scopes|it supports all sopes (singleon,protoype,request,session, global session)|
+|it supports basic features and less memory|it supports all features (i18n,security and transactions)|
+|it does not support autowiring though to annotaions|it supports annotation based on configuration|
 
 
 ## how do you create object using factroy patteren in sping

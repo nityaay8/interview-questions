@@ -1,12 +1,13 @@
 ### How do you initialize Application context or Bean Factory context in Spring
 
+#### Application Context
     <beans>   
       <bean id="department" class="com.Department"></bean>   
     </beans>  
 
    ApplicationContext ctx = new ClassPathXmlApplicationContext( "beans.xml");
    
-   BeanFactory
+   #### BeanFactory
    
     Resource res = new FileSystemResource("beans.xml");
     XmlBeanFactory factory = new XmlBeanFactory(res);

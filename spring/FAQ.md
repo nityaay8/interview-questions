@@ -20,7 +20,7 @@
 ## difference between BeanFactory and Application Context.
 
 |Bean Factory|Application Context|
-|---------------------------------|
+|------------|-------------------|
 
 ## how do you create object using factroy patteren in sping
 

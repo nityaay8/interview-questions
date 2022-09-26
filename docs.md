@@ -1,12 +1,3 @@
-## java
-
-https://www.interviewbit.com/java-8-interview-questions/
-
-https://www.guru99.com/java-virtual-machine-jvm.html
-
-## java performance
-https://www.techgeeknext.com/java/java-performance-interview-questions
-
 ## HLD
 https://drive.google.com/file/d/1aj_1_OhUNgvPmwr2Yo6Ta5AnY1qpyjBM/view?usp=sharing
 
@@ -37,20 +28,6 @@ https://www.guru99.com/java-message-service-interview-questions.html
 
 https://www.javainuse.com/spring/boot_swagger_annotations
 
-
-## threads
-https://www.callicoder.com/java-8-completablefuture-tutorial/#:~:text=What's%20a%20CompletableFuture%3F,its%20progress%2C%20completion%20or%20failure.
-
-https://www.geeksforgeeks.org/future-and-futuretask-in-java/#:~:text=A%20Future%20interface%20provides%20methods,blocks%20until%20it%20is%20completed.
-
-
-
-## hibernate
-https://www.interviewbit.com/hibernate-interview-questions/
-
-https://medium.com/geekculture/resolve-hibernate-n-1-problem-f0e049e689ab
-
-https://hackernoon.com/3-ways-to-deal-with-hibernate-n1-problem
 
 
 ## DSA

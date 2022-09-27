@@ -9,6 +9,9 @@ https://www.tutorialspoint.com/spring_boot/spring_boot_hystrix.htm
 
 https://dzone.com/articles/implementing-a-bounded-context
 
+## migrating monolith application micro services 
+https://learn.microsoft.com/en-us/azure/architecture/microservices/migrate-monolith
+
 ## micro services design patteren
 https://www.edureka.co/blog/microservices-design-patterns
 

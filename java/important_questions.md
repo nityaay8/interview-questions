@@ -19,3 +19,7 @@ https://www.linkedin.com/pulse/20140528113353-16837833-6-benefits-of-programming
   * Immutability makes it easier to parallelize your program as there are no conflicts among objects.
   * The internal state of your program will be consistent even if you have exceptions.
   * References to immutable objects can be cached as they are not going to change.
+
+## inheriteance vs composistion
+
+https://stackoverflow.com/questions/2399544/difference-between-inheritance-and-composition

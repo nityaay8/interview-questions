@@ -23,3 +23,5 @@ https://www.linkedin.com/pulse/20140528113353-16837833-6-benefits-of-programming
 ## inheriteance vs composistion
 
 https://stackoverflow.com/questions/2399544/difference-between-inheritance-and-composition
+
+https://www.digitalocean.com/community/tutorials/composition-vs-inheritance

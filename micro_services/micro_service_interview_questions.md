@@ -15,6 +15,8 @@ https://learn.microsoft.com/en-us/azure/architecture/microservices/migrate-monol
 ## micro services design patteren
 https://www.edureka.co/blog/microservices-design-patterns
 
+https://cloud.google.com/architecture/microservices-architecture-refactoring-monoliths
+
 ## hystrix
      How does hystrix Circuit Breaker work?
     

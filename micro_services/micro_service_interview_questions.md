@@ -52,6 +52,8 @@ https://www.guru99.com/rest-api-interview-question-answers.html
 ## API Gateway
 https://www.mytectra.com/interview-question/top-2022-apigee-interview-questions-and-answers
 
+https://www.youtube.com/watch?v=3iwItfr4N38
+
 https://www.acte.in/apigee-interview-questions-and-answers/
 
     publish, mainitainig and securing the API at any scale

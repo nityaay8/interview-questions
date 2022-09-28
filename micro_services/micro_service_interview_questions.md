@@ -24,6 +24,9 @@ https://www.tutorialspoint.com/spring_boot/spring_boot_hystrix.htm
 
 https://dzone.com/articles/implementing-a-bounded-context
 
+## micro services transsactions
+https://www.baeldung.com/cs/saga-pattern-microservices
+
 https://www.vinsguru.com/orchestration-saga-pattern-with-spring-boot/
 
 ## migrating monolith application micro services 

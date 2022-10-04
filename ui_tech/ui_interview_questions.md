@@ -4,6 +4,8 @@ https://www.interviewbit.com/javascript-interview-questions/
 https://www.w3schools.com/js/js_function_closures.asp
 
 ## angualr2 interview questions
+https://www.interviewbit.com/angularjs-interview-questions/
+
 https://www.bestinterviewquestion.com/angular-2-interview-questions
 
 https://angular.io/guide/lazy-loading-ngmodules

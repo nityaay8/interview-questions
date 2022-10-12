@@ -15,6 +15,9 @@
 
     ClassPathResource res = new ClassPathResource("beans.xml");
     XmlBeanFactory factory = new XmlBeanFactory(res);
+    
+    or
+    ApplicationContext context = new ClassPathXmlApplicationContext("applicationcontext/user-bean-config.xml");
    
    https://docs.spring.io/spring-framework/docs/1.2.x/reference/beans.html
    

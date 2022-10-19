@@ -9,6 +9,11 @@ https://stackoverflow.com/questions/35005158/what-is-the-difference-between-comp
 
 https://www.tutorialspoint.com/spring_boot/spring_boot_exception_handling.htm
 
+## spring cloud
+https://www.java67.com/2021/01/spring-cloud-interview-questions-with-answers-java.html
+
+https://tech.target.com/blog/spring-boot-service-to-service-communication
+
 ## Rest interview questions
 https://www.guru99.com/rest-api-interview-question-answers.html
 
